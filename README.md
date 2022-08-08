@@ -23,7 +23,8 @@ To run this project we just need the following libraries
  
  
  # File Descriptions
- 
- 
+ In this repository there are following files:
+ * README.md 
+ * Writing-a-Data-Scientist-Blog-Post which contains the code in a Jupyter notebook.
  # Result 
  In this file we can see the answer of each questions and the summarizing result
