@@ -1,5 +1,5 @@
 # Get To Know Stack Overflow Data
-Project1_Writing-a-Data-Scientist-Blog-Post
+
 The first project of Udacity Data Scientist Nanodegree Project
 
 # Content
