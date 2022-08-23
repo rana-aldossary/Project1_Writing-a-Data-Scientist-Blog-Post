@@ -1,4 +1,5 @@
-# Project1_Writing-a-Data-Scientist-Blog-Post
+# Get To Know Stack Overflow Data
+Project1_Writing-a-Data-Scientist-Blog-Post
 The first project of Udacity Data Scientist Nanodegree Project
 
 # Content
@@ -6,6 +7,7 @@ The first project of Udacity Data Scientist Nanodegree Project
 * Motivation
 * File Descriptions
 * Result
+* Acknowledgments
 
 # Libraries
 To run this project we just need the following libraries
@@ -28,3 +30,9 @@ To run this project we just need the following libraries
  * Writing-a-Data-Scientist-Blog-Post which contains the code in a Jupyter notebook.
  # Result 
  In this file we can see the answer of each questions and the summarizing result
+ 
+ 
+ # Acknowledgments
+ Data is taken from StackOverflow and licensed under the ODbL license.
+
+
