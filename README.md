@@ -29,7 +29,7 @@ To run this project we just need the following libraries
  * README.md 
  * Writing-a-Data-Scientist-Blog-Post which contains the code in a Jupyter notebook.
  # Result 
- In this [file](https://github.com/rana-aldossary/Project1_Writing-a-Data-Scientist-Blog-Post/blob/main/Writing-a-Data-Scientist-Blog-Post_Final.ipynb) we can see the answer of each questions and the summarizing result
+ In this [file](https://github.com/rana-aldossary/Project1_Writing-a-Data-Scientist-Blog-Post/blob/main/Writing-a-Data-Scientist-Blog-Post_Final.ipynb) we can see the answer of each questions and the summarizing result. Also a [plog post](https://medium.com/@rana3900/project1-writing-a-data-scientist-blog-post-e2269a3a404e) has been puplished in order to clarify the result I got.
  
  
  # Acknowledgments
